@@ -12233,3 +12233,7 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [18Jun2025 17:18:54.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 17:20:37.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] me olvide
 [18Jun2025 17:20:45.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] de esta melda deci q no se apago solo xD
+[18Jun2025 17:23:54.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:23:54.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:28:54.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:28:54.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
