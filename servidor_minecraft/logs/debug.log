@@ -12118,3 +12118,14 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [18Jun2025 16:48:48.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] en efecto
 [18Jun2025 16:48:54.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 16:48:54.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 16:53:13.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] actsa as
+[18Jun2025 16:53:18.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> ke
+[18Jun2025 16:53:20.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] activo en un rato vuelvo
+[18Jun2025 16:53:29.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] mira dc para mas info
+[18Jun2025 16:53:54.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 16:53:54.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 16:57:43.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1877} BlockPos{x=934, y=62, z=-1876}
+[18Jun2025 16:57:43.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1877} BlockPos{x=934, y=62, z=-1876}
+[18Jun2025 16:57:43.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1875} BlockPos{x=933, y=62, z=-1873}
+[18Jun2025 16:58:54.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 16:58:54.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
