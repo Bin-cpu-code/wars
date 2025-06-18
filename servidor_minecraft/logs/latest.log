@@ -583,3 +583,225 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [18Jun2025 15:58:30.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Sweet Dreams]
 [18Jun2025 16:00:13.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] xD
 [18Jun2025 16:01:45.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> speed run de full diamante primero tener hierro :v
+[18Jun2025 16:04:03.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Acquire Hardware]
+[18Jun2025 16:04:12.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Isn't It Iron Pick]
+[18Jun2025 16:04:19.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Diamonds!]
+[18Jun2025 16:08:19.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] asdw
+[18Jun2025 16:08:32.818] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@789493a5
+[18Jun2025 16:08:32.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tompedido[/127.125.2.56:35999] logged in with entity id 3123 at (-33.42192508720454, 63.0, 51.12377226438614)
+[18Jun2025 16:08:32.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido joined the game
+[18Jun2025 16:08:32.901] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player tompedido just logged in with id 124536fd-6df4-35aa-9d7d-1889378dcf56
+[18Jun2025 16:08:32.904] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player tompedido[124536fd-6df4-35aa-9d7d-1889378dcf56]
+[18Jun2025 16:08:32.906] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/tompedido
+[18Jun2025 16:08:33.029] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/tompedido downloaded
+[18Jun2025 16:08:33.030] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/47738f60-cadf-4045-8368-7760bed5e618
+[18Jun2025 16:08:35.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tompedido (18)
+[18Jun2025 16:08:35.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tompedido
+[18Jun2025 16:10:09.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made tompedido a server operator
+[18Jun2025 16:10:20.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido was slain by Zombie
+[18Jun2025 16:10:34.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Set the time to 1000]
+[18Jun2025 16:10:59.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> e we
+[18Jun2025 16:11:04.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> ?ç
+[18Jun2025 16:11:10.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> deberias de meter un mod de esos martillos de 3 x 3
+[18Jun2025 16:11:23.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> usa el boton al lado del 1
+[18Jun2025 16:11:27.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> el boton
+[18Jun2025 16:11:30.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> º
+[18Jun2025 16:11:37.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> si usas shift y mantienes ese
+[18Jun2025 16:11:50.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> con la rueda del raton puedes cambiar el formato con el que rompes las cosas
+[18Jun2025 16:12:45.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Cover Me with Diamonds]
+[18Jun2025 16:13:49.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Gave 64 [Steak] to tompedido]
+[18Jun2025 16:13:57.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> te deja usar /kit beef?
+[18Jun2025 16:14:06.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> no
+[18Jun2025 16:14:13.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> te lo doy desde consola
+[18Jun2025 16:14:19.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Gave 64 [Steak] to _Josee]
+[18Jun2025 16:17:31.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2 blocks]
+[18Jun2025 16:17:38.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Set own game mode to Creative Mode]
+[18Jun2025 16:18:51.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 4809 blocks]
+[18Jun2025 16:19:28.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 5111 blocks]
+[18Jun2025 16:19:49.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Smoke On The Water]
+[18Jun2025 16:20:06.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2817 blocks]
+[18Jun2025 16:20:08.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 513 blocks]
+[18Jun2025 16:20:10.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 335 blocks]
+[18Jun2025 16:20:12.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 422 blocks]
+[18Jun2025 16:20:13.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 807 blocks]
+[18Jun2025 16:20:14.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 535 blocks]
+[18Jun2025 16:20:15.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 264 blocks]
+[18Jun2025 16:20:16.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 153 blocks]
+[18Jun2025 16:20:18.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 37 blocks]
+[18Jun2025 16:20:18.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Barrel Booty]
+[18Jun2025 16:20:21.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 282 blocks]
+[18Jun2025 16:20:22.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 340 blocks]
+[18Jun2025 16:20:24.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 579 blocks]
+[18Jun2025 16:20:27.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 218 blocks]
+[18Jun2025 16:20:29.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 61 blocks]
+[18Jun2025 16:20:31.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 126 blocks]
+[18Jun2025 16:20:32.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 144 blocks]
+[18Jun2025 16:20:34.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 189 blocks]
+[18Jun2025 16:20:36.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 16 blocks]
+[18Jun2025 16:20:40.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2 blocks]
+[18Jun2025 16:20:57.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement ['X' Marks the Spot]
+[18Jun2025 16:21:00.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2514 blocks]
+[18Jun2025 16:21:02.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2618 blocks]
+[18Jun2025 16:21:03.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2768 blocks]
+[18Jun2025 16:21:04.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2049 blocks]
+[18Jun2025 16:21:06.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 90 blocks]
+[18Jun2025 16:21:09.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 20 blocks]
+[18Jun2025 16:21:10.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 65 blocks]
+[18Jun2025 16:21:12.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 23 blocks]
+[18Jun2025 16:21:14.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2151 blocks]
+[18Jun2025 16:21:15.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2208 blocks]
+[18Jun2025 16:21:16.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1521 blocks]
+[18Jun2025 16:21:17.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2280 blocks]
+[18Jun2025 16:21:18.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 758 blocks]
+[18Jun2025 16:21:19.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1507 blocks]
+[18Jun2025 16:21:21.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 751 blocks]
+[18Jun2025 16:21:23.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 838 blocks]
+[18Jun2025 16:21:24.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1512 blocks]
+[18Jun2025 16:21:45.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1181 blocks]
+[18Jun2025 16:21:46.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 267 blocks]
+[18Jun2025 16:21:48.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 167 blocks]
+[18Jun2025 16:21:49.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 285 blocks]
+[18Jun2025 16:21:51.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 143 blocks]
+[18Jun2025 16:21:54.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 180 blocks]
+[18Jun2025 16:22:07.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 620 blocks]
+[18Jun2025 16:22:25.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 28 blocks]
+[18Jun2025 16:22:38.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 888 blocks]
+[18Jun2025 16:22:51.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 703 blocks]
+[18Jun2025 16:22:53.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 106 blocks]
+[18Jun2025 16:22:54.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 38 blocks]
+[18Jun2025 16:22:55.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 120 blocks]
+[18Jun2025 16:22:57.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Disme A Dozen]
+[18Jun2025 16:23:00.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 45 blocks]
+[18Jun2025 16:23:03.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 127 blocks]
+[18Jun2025 16:23:14.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 52 blocks]
+[18Jun2025 16:23:25.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 48 blocks]
+[18Jun2025 16:23:27.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 52 blocks]
+[18Jun2025 16:23:33.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 13 blocks]
+[18Jun2025 16:23:50.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 52 blocks]
+[18Jun2025 16:23:52.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 52 blocks]
+[18Jun2025 16:23:58.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 11 blocks]
+[18Jun2025 16:24:01.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 23 blocks]
+[18Jun2025 16:24:13.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 66 blocks]
+[18Jun2025 16:24:16.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 26 blocks]
+[18Jun2025 16:24:21.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 11 blocks]
+[18Jun2025 16:24:39.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [An Ancient Crystal]
+[18Jun2025 16:25:13.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> oe
+[18Jun2025 16:25:44.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> q
+[18Jun2025 16:25:52.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> tecla M
+[18Jun2025 16:26:00.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> tecla M
+[18Jun2025 16:26:02.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 132 blocks]
+[18Jun2025 16:26:07.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1416 blocks]
+[18Jun2025 16:26:09.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 336 blocks]
+[18Jun2025 16:26:11.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 42 blocks]
+[18Jun2025 16:26:12.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Suit Up]
+[18Jun2025 16:26:13.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 4305 blocks]
+[18Jun2025 16:26:16.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 3085 blocks]
+[18Jun2025 16:26:18.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 3589 blocks]
+[18Jun2025 16:26:20.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 3617 blocks]
+[18Jun2025 16:26:23.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 539 blocks]
+[18Jun2025 16:26:30.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 504 blocks]
+[18Jun2025 16:26:33.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> que tiene la mç
+[18Jun2025 16:26:37.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> tienes un terreno
+[18Jun2025 16:26:38.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 101 blocks]
+[18Jun2025 16:26:43.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> si
+[18Jun2025 16:27:00.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 104 blocks]
+[18Jun2025 16:27:07.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1155 blocks]
+[18Jun2025 16:27:09.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2152 blocks]
+[18Jun2025 16:27:15.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1133 blocks]
+[18Jun2025 16:27:45.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> y lo puedes expandir?
+[18Jun2025 16:27:55.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> si
+[18Jun2025 16:28:01.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> pero es gratis?
+[18Jun2025 16:28:08.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> mi zona si
+[18Jun2025 16:28:12.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 6915 blocks]
+[18Jun2025 16:28:17.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 2157 blocks]
+[18Jun2025 16:28:20.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 109 blocks]
+[18Jun2025 16:28:22.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 75 blocks]
+[18Jun2025 16:28:29.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 5501 blocks]
+[18Jun2025 16:28:38.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [You Are A Pirate]
+[18Jun2025 16:28:43.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 814 blocks]
+[18Jun2025 16:28:44.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 130 blocks]
+[18Jun2025 16:28:52.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 99 blocks]
+[18Jun2025 16:28:57.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 408 blocks]
+[18Jun2025 16:28:59.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1084 blocks]
+[18Jun2025 16:29:00.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 3482 blocks]
+[18Jun2025 16:29:10.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 1296 blocks]
+[18Jun2025 16:29:13.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 263 blocks]
+[18Jun2025 16:29:15.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 86 blocks]
+[18Jun2025 16:29:20.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 454 blocks]
+[18Jun2025 16:29:22.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 343 blocks]
+[18Jun2025 16:29:23.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 193 blocks]
+[18Jun2025 16:29:24.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 215 blocks]
+[18Jun2025 16:29:33.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 336 blocks]
+[18Jun2025 16:29:33.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Close Quarters]
+[18Jun2025 16:29:34.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 197 blocks]
+[18Jun2025 16:29:35.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 180 blocks]
+[18Jun2025 16:29:36.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 153 blocks]
+[18Jun2025 16:29:38.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 78 blocks]
+[18Jun2025 16:29:39.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 91 blocks]
+[18Jun2025 16:29:45.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 44 blocks]
+[18Jun2025 16:29:46.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 64 blocks]
+[18Jun2025 16:29:48.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 127 blocks]
+[18Jun2025 16:29:49.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 144 blocks]
+[18Jun2025 16:29:50.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 109 blocks]
+[18Jun2025 16:29:57.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [I Found It Underground]
+[18Jun2025 16:29:58.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Successfully filled 10 blocks]
+[18Jun2025 16:30:12.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Set own game mode to Survival Mode]
+[18Jun2025 16:30:15.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee has made the advancement [Take Aim]
+[18Jun2025 16:30:52.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> lo perdi todo por la lava
+[18Jun2025 16:31:06.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> menos la zona xD y lo peor esq lo llevava todo en mi backpack
+[18Jun2025 16:31:24.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> xd
+[18Jun2025 16:31:35.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> quieres q te haga tp?
+[18Jun2025 16:31:45.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> para que xd
+[18Jun2025 16:31:54.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> pa q veas la zona
+[18Jun2025 16:31:58.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> na
+[18Jun2025 16:33:18.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [Stone Age]
+[18Jun2025 16:33:35.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> Un bioma de champivacas
+[18Jun2025 16:33:41.969] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Jun2025 16:33:41.970] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18Jun2025 16:33:42.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> roto
+[18Jun2025 16:33:46.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> ponle waypon
+[18Jun2025 16:33:53.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> aqui va a hacer mi base
+[18Jun2025 16:34:00.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [Getting an Upgrade]
+[18Jun2025 16:34:07.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> xD
+[18Jun2025 16:34:11.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> nunca use de piedra
+[18Jun2025 16:34:54.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] xDD a no se reseteo los logros q kk con razon no tenia mis logros
+[18Jun2025 16:38:34.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> mina con forma de pito xD
+[18Jun2025 16:38:53.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> deberias de meter el clear lag y un mod de tumbas
+[18Jun2025 16:39:04.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> esta el de cuerpos
+[18Jun2025 16:39:09.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> y no permite plugins
+[18Jun2025 16:39:16.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> el server es forge
+[18Jun2025 16:39:27.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> hacelo tanto para mods como plugins
+[18Jun2025 16:39:39.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> pa q clear lag?
+[18Jun2025 16:39:43.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> 12 gb de ram
+[18Jun2025 16:39:59.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> elimina entidades que quedan en chunks cargados pero que el usuario no vuelve a cagar
+[18Jun2025 16:39:59.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> solo podemos petar el server con chunks y chunks de elizes
+[18Jun2025 16:40:26.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> si quieres coal dime
+[18Jun2025 16:40:34.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [tompedido: Gamerule playersSleepingPercentage is now set to: 1]
+[18Jun2025 16:40:40.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> duerme si puedes
+[18Jun2025 16:40:53.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> hace el comando para que duerme uno solo
+[18Jun2025 16:41:05.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> la letra G
+[18Jun2025 16:43:19.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido was shot by Baby Skeleton
+[18Jun2025 16:43:33.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [Monster Hunter]
+[18Jun2025 16:43:36.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [Not Quite Common]
+[18Jun2025 16:43:36.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [A Stunning Fixation]
+[18Jun2025 16:43:36.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido has made the advancement [How'd You Get This?]
+[18Jun2025 16:46:43.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> bueno me despido
+[18Jun2025 16:46:48.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> cuando claimeas chunks
+[18Jun2025 16:46:52.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> puedes hasta 500
+[18Jun2025 16:46:53.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> como lo hago
+[18Jun2025 16:46:58.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> y que pide
+[18Jun2025 16:47:05.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <_Josee> o todo es gratis el claimeo
+[18Jun2025 16:47:05.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> y con shift click puedes hacer que se recargen todo el tiempo
+[18Jun2025 16:47:16.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> osea esta cargado todo el tiempo
+[18Jun2025 16:47:18.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> es gratis
+[18Jun2025 16:47:33.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> la M en la izquierda superior del mapa que te abre la M
+[18Jun2025 16:47:51.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> pa claimear normar M
+[18Jun2025 16:48:08.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> pa claimear y que quede cargado shift click en un chunk previamente claimeado
+[18Jun2025 16:48:16.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> pa desclaimear click derecho
+[18Jun2025 16:48:28.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> limite de claim 500
+[18Jun2025 16:48:32.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <tompedido> de cargados 25
+[18Jun2025 16:48:42.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tompedido lost connection: Disconnected
+[18Jun2025 16:48:42.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tompedido left the game
+[18Jun2025 16:48:42.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tompedido
+[18Jun2025 16:48:42.174] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player tompedido[124536fd-6df4-35aa-9d7d-1889378dcf56]
+[18Jun2025 16:48:48.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] en efecto
