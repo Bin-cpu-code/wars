@@ -1,0 +1,75 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 18, 2025, 2:36:28 AM
+
+#dungeons_arise:explorer_maps/foundry
+- dungeons_arise:foundry
+
+#dungeons_arise:explorer_maps/plague_asylum
+- dungeons_arise:plague_asylum
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold
+- minecraft:ocean_ruin_warm
+
+#minecraft:mineshaft
+- minecraft:mineshaft
+- minecraft:mineshaft_mesa
+
+#dungeons_arise:explorer_maps/shiraz_palace
+- dungeons_arise:shiraz_palace
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion
+
+#dungeons_arise:explorer_maps/illager_fort
+- dungeons_arise:illager_fort
+
+#dungeons_arise:explorer_maps/thornborn_towers
+- dungeons_arise:thornborn_towers
+
+#dungeons_arise:explorer_maps/mining_system
+- dungeons_arise:mining_system
+
+#dungeons_arise:explorer_maps/illager_corsair
+- dungeons_arise:illager_corsair
+
+#minecraft:shipwreck
+- minecraft:shipwreck
+- minecraft:shipwreck_beached
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument
+
+#dungeons_arise:explorer_maps/mushroom_mines
+- dungeons_arise:mushroom_mines
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold
+
+#dungeons_arise:explorer_maps/monastery
+- dungeons_arise:monastery
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert
+- minecraft:ruined_portal_jungle
+- minecraft:ruined_portal_mountain
+- minecraft:ruined_portal_nether
+- minecraft:ruined_portal_ocean
+- minecraft:ruined_portal
+- minecraft:ruined_portal_swamp
+
+#dungeons_arise:explorer_maps/illager_campsite
+- dungeons_arise:illager_campsite
+
+#minecraft:village
+- minecraft:village_plains
+- minecraft:village_desert
+- minecraft:village_savanna
+- minecraft:village_snowy
+- minecraft:village_taiga
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin
+- #minecraft:shipwreck

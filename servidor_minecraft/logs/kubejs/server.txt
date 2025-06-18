@@ -1,0 +1,10 @@
+[15:43:09] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[15:43:09] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[15:43:09] [INFO ] Loaded 1/1 KubeJS server scripts in 0.012 s
+[15:43:09] [INFO ] Scripts loaded
+[15:43:09] [INFO ] Scanning recipes...
+[15:43:27] [INFO ] Found 7532 recipes and 0 failed recipes in 802.6 ms
+[15:43:27] [INFO ] Posted recipe events in 802.0 μs
+[15:43:28] [INFO ] Modified & removed recipes in 276.6 ms
+[15:43:28] [INFO ] Added recipes in 448.7 μs
+[15:43:28] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
