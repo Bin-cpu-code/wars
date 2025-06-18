@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-06-18 17:05:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_scythe": {
     "criteria": {
       "has_diamond": "2025-06-18 16:04:19 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-06-18 17:05:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-18 16:01:48 +0000"
@@ -581,6 +593,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-18 17:05:28 +0000"
     },
     "done": true
   },
@@ -807,8 +825,10 @@
       "minecraft:skeleton": "2025-06-18 15:55:38 +0000",
       "minecraft:vindicator": "2025-06-18 16:30:19 +0000",
       "minecraft:spider": "2025-06-18 15:56:12 +0000",
+      "minecraft:creeper": "2025-06-18 17:04:09 +0000",
       "minecraft:husk": "2025-06-18 15:56:25 +0000",
-      "minecraft:silverfish": "2025-06-18 16:22:20 +0000"
+      "minecraft:silverfish": "2025-06-18 16:22:20 +0000",
+      "minecraft:zombie": "2025-06-18 17:03:58 +0000"
     },
     "done": false
   },
@@ -1529,6 +1549,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2025-06-18 16:33:17 +0000",
+      "minecraft:taiga": "2025-06-18 16:59:04 +0000",
       "minecraft:deep_ocean": "2025-06-18 16:27:43 +0000",
       "minecraft:lukewarm_ocean": "2025-06-18 16:19:33 +0000",
       "minecraft:river": "2025-06-18 16:05:47 +0000",
@@ -1611,6 +1632,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-18 16:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-18 17:04:37 +0000"
     },
     "done": true
   },
@@ -2184,6 +2211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 17:04:10 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-06-18 15:56:26 +0000"
@@ -2390,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 17:04:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-18 16:01:25 +0000"
@@ -2495,6 +2534,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2025-06-18 16:04:03 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2025-06-18 17:05:28 +0000"
     },
     "done": true
   },
@@ -2633,6 +2678,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-06-18 17:05:00 +0000"
     },
     "done": true
   },
@@ -3203,6 +3254,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-18 16:52:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-18 17:04:10 +0000"
     },
     "done": true
   },
