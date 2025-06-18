@@ -812,3 +812,9 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [18Jun2025 16:57:43.038] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1877} BlockPos{x=934, y=62, z=-1876}
 [18Jun2025 16:57:43.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1877} BlockPos{x=934, y=62, z=-1876}
 [18Jun2025 16:57:43.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=933, y=64, z=-1875} BlockPos{x=933, y=62, z=-1873}
+[18Jun2025 17:15:22.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Josee lost connection: Disconnected
+[18Jun2025 17:15:22.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee left the game
+[18Jun2025 17:15:22.312] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Josee
+[18Jun2025 17:15:22.313] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player _Josee[d15404ae-f3a9-3c33-8f41-ddf02e06605a]
+[18Jun2025 17:20:37.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] me olvide
+[18Jun2025 17:20:45.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] de esta melda deci q no se apago solo xD

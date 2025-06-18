@@ -12161,3 +12161,75 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [18Jun2025 17:04:36.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [18Jun2025 17:08:54.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 17:08:54.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:13:54.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:13:54.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:36:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:37:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:38:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:39:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:40:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:41:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:42:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:43:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:44:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:45:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:46:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:47:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:48:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-114 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-113 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-112 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-111 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-110 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-109 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-108 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-107 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-106 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-105 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-104 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-103 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-102 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-101 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:48:-101 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:48:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:49:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:47:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:46:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:45:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:44:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:43:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:42:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:41:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:40:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:39:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:38:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:37:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:36:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-100 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-101 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-102 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-103 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-104 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-105 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-106 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-107 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-108 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-109 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-113 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-112 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-111 but got result NOT_CLAIMED
+[18Jun2025 17:14:42.014] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-110 but got result NOT_CLAIMED
+[18Jun2025 17:14:45.184] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to claim @ minecraft:overworld:35:-109 but got result ALREADY_CLAIMED
+[18Jun2025 17:14:45.638] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-109 but got result NOT_CLAIMED
+[18Jun2025 17:14:45.864] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-109 but got result NOT_CLAIMED
+[18Jun2025 17:14:47.517] [Server thread/DEBUG] [FTB Chunks/]: _Josee tried to unclaim @ minecraft:overworld:35:-111 but got result NOT_CLAIMED
+[18Jun2025 17:15:22.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _Josee lost connection: Disconnected
+[18Jun2025 17:15:22.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Josee left the game
+[18Jun2025 17:15:22.312] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of _Josee
+[18Jun2025 17:15:22.312] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Josee
+[18Jun2025 17:15:22.313] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player _Josee[d15404ae-f3a9-3c33-8f41-ddf02e06605a]
+[18Jun2025 17:18:54.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:18:54.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:20:37.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] me olvide
+[18Jun2025 17:20:45.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] de esta melda deci q no se apago solo xD
